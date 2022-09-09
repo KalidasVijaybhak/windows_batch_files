@@ -18,3 +18,11 @@
  To go **godmode** ie have access to all controlpanel shortcut in a single folder
  
  create a folder and rename it to "**GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}.**"
+
+## Tip 4
+
+   sfc /scannow
+   
+ run a basic problem check for the pc and the os repairs if possible.
+   
+   
