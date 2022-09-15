@@ -25,7 +25,7 @@
    
  run a basic problem check for the pc and the os repairs if possible.
    
- ## Tip 5
+ ## Tip 5 To sync system time with internet time using cmd
  
  Run cmd as administrator
  
