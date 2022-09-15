@@ -25,7 +25,19 @@
    
  run a basic problem check for the pc and the os repairs if possible.
    
-   
+ ## Tip 5
+ 
+ Run cmd as administrator
+ 
+ **Step 1**
+ 
+    net start w32time
+
+ **Step 2**
+ 
+    w32tm /resync
+    
+    
 # File System
 ![image](https://user-images.githubusercontent.com/70281178/189385935-abf4b8a9-4109-419d-9635-f1db00c1876a.png)
 ![image](https://user-images.githubusercontent.com/70281178/189386792-fd86f6ba-069b-4689-931c-fe846d1b53fd.png)
